@@ -20,3 +20,6 @@ bundle exec pod install
 # Open the project
 open BlindWays.xcworkspace
 ```
+## Contributing
+
+This project was made to be a collaborative effort. Contributions are welcomed and much appreciated. See the [CONTRIBUTING.md](CONTRIBUTING.md) file to read more about how to contribute.
